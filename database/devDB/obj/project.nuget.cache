@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QsAPGjF2E4BufdEiExXBJZZqJDHIWFUDicgFAt+cAirrQ0gMLUWB8UV6G2a3QnLMQGZu7mtQkARZcCtYE7z3ag==",
+  "success": true,
+  "projectFilePath": "/workspaces/cyp-azure-sql-db-developers-workshop/database/devDB/devDB.sqlproj",
+  "expectedPackageFiles": [
+    "/home/vscode/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/home/vscode/.nuget/packages/microsoft.netframework.referenceassemblies.net46/1.0.0/microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
